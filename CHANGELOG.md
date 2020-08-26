@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [conventional-commits](https://www.conventionalcommits.org/) for commit guidelines.
 
+### [4.0.1](https://www.github.com/terraform-google-modules/terraform-google-vm/compare/v4.0.0...v4.0.1) (2020-08-26)
+
+
+### Bug Fixes
+
+* relax version constraints to enable terraform 0.13.x compatibility ([#108](https://www.github.com/terraform-google-modules/terraform-google-vm/issues/108)) ([6fb2b42](https://www.github.com/terraform-google-modules/terraform-google-vm/commit/6fb2b42bd96f90d3c2baffd511cb58200fbc074c))
+
 ## [4.0.0](https://www.github.com/terraform-google-modules/terraform-google-vm/compare/v3.0.0...v4.0.0) (2020-06-23)
 
 
